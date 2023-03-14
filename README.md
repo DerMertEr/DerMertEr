@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DerMertEr
 - 👀 I’m interested in learning game development
 - 🌱 I’m currently learning Python and C# for Unity
-- 💞️ I’m looking to collaborate on ... nothing right now
-- 📫 How to reach me ... yes
+- 🦆 Currently working on a silly project for fun (Vocabs)
+- 📫 Discord: X!#9323
 
 <!---
 DerMertEr/DerMertEr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
